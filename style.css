@@ -1,0 +1,114 @@
+body{
+    background-color: #EAF6F6;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+hr{
+    background-color: white;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color:#66BFBF;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+.name{
+    position: relative;top: 140px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    
+}
+h3{
+    color:#66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+}
+.top-container{
+    background-color: #EAF6F6;
+}
+.bottom-container{
+   background-color: #66BFBF;
+   padding:60px 0 20px;
+}
+#programmer{
+    color:#66BFBF;
+    position: relative;top: 80px;
+    font-weight:400;
+}
+#apostopi{
+    color:red;
+}
+.skill-row{
+    margin: auto;
+    width: 50%;
+    padding-bottom: 2rem;
+}
+.background{
+    object-fit: cover;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.attribute{
+    font-size: 10px;
+    
+}
+#icons{
+    margin-bottom: -6px;
+}
+.desktop-image{
+    max-width: 50%;
+    max-height: 50%;
+}
+.contact-me{
+    display: inline-block;
+}
+.phone-image{
+    float: right;
+    max-width: 10%;
+    max-height: 10%;
+    position: relative;top:25px;right:140px;
+}
+.ps{
+    font-size: small;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 30;
+    -moz-border-radius: 30;
+    border-radius: 30px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .links{
+    max-width: 2%;
+    max-height: 2%;
+  }
+
